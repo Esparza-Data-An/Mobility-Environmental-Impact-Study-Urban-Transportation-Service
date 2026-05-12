@@ -6,10 +6,6 @@ combining SQL-based data extraction, exploratory data analysis, and statistical
 hypothesis testing to determine whether weather conditions significantly impact
 trip duration.
 
-## Note on Language
-The Jupyter notebook and internal comments are currently in Spanish.
-An English version is in progress.
-
 ## Tools & Libraries
 Python · Pandas · SciPy · Seaborn · Matplotlib · SQL (PostgreSQL)
 
